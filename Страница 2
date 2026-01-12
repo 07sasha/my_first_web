@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Страница 2</title>
+</body>
+    <body bgcolor="#FF0000">
+    <font color="white" size="6">
+        <center><h1>Фейерверк</h1></center>
+    </font>
+    <center><img src="https://images.unsplash.com/photo-1519452635265-7b1fbfd1e891?w=200" width="200"></center>
+    <p>Яркий фейерверк!</p> 
+    <table border="1">
+        <tr><td>Ракеты</td><td>Красные</td></tr>
+        <tr><td>Звезды</td><td>Золотые</td></tr>
+    </table> 
+    <p><a href="index.html">Главная</a></p>
+</body>
+</html>
