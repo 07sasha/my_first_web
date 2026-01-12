@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Страница 1</title>
+<head>
+</body>
+    <body bgcolor="green">
+    <font color="red" size="6">
+        <center><h1>Елка</h1></center>
+    </font> 
+    <center><img src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=200" width="200"></center>    
+    <p>Зеленая красивая елка.</p>
+      <table border="1">
+        <tr><td>Шары</td><td>10</td></tr>
+        <tr><td>Свечи</td><td>5</td></tr>
+    </table>   
+    <p><a href="index.html">Главная</a></p>
+</body>
+</html>
