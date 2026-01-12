@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Страница 3</title>
+</head>
+<body bgcolor="#8B0000">
+    <font color="gold" size="6">
+        <center><h1>Подарки</h1></center>
+    </font>    
+    <center><img src="https://images.unsplash.com/photo-1608043152266-635ad68d1478?w=200" alt="Новогодние подарки" width="200"></center>  
+    <p>Дед Мороз приносит подарки!</p>    
+    <table border="1">
+        <tr><td>Для детей</td><td>Игрушки</td></tr>
+        <tr><td>Для взрослых</td><td>Книги</td></tr>
+        <tr><td>Для всех</td><td>Мандарины</td></tr>
+    </table>    
+    <p><a href="index.html">Главная</a></p>
+</body>
+</html>
